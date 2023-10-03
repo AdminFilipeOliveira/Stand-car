@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Stand Auto</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="preco">Preço</string>
+    <string name="valor">Valor</string>
+    <string name="potencia">Potênçia</string>
+    <string name="bateria">Bateria</string>
+    <string name="recarga">Recarga</string>
+    <string name="preco_kwh">Preço Kwh</string>
+    <string name="preco_km_corrido">Preço km Percorrido</string>
+    <string name="calcular">Calcular</string>
+
+
+    <string-array name="arry_cidades">
+        <item>Selecione a Cidade:</item>
+        <item>Cidade do Porto</item>
+        <item>Cidade de Aveiro</item>
+        <item>Cidade de Braga</item>
+        <item>Cidade de Lisboa</item>
+    </string-array>
+</resources>
